@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "baseUrl": "",
+  "files": [
+    {
+      "path": "gta_sa.exe",
+      "sha256": "",
+      "size": 0
+    },
+    {
+      "path": "samp.exe",
+      "sha256": "",
+      "size": 0
+    }
+  ]
+}
