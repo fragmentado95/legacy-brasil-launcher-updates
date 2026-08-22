@@ -1,16 +1,17 @@
 {
   "version": "1.0.0",
+  "generatedAtUtc": "2026-08-22T17:00:00.0000000Z",
   "baseUrl": "",
   "files": [
     {
       "path": "gta_sa.exe",
-      "sha256": "",
-      "size": 0
+      "sha256": "hash-do-arquivo-aqui",
+      "size": 12345678
     },
     {
       "path": "samp.exe",
-      "sha256": "",
-      "size": 0
+      "sha256": "outro-hash-aqui",
+      "size": 123456
     }
   ]
 }
