@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0.0",
+  "launcher": "Legacy Brasil RPG",
+  "updateRequired": false,
+  "downloadUrl": "",
+  "changelog": [
+    "Launcher inicial criado",
+    "Sistema de status do servidor ativo",
+    "Sistema de atualização preparado"
+  ]
+}
