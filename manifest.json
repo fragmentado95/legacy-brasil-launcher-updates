@@ -2,7 +2,7 @@
   "version": "1.0.0.0",
   "launcher": "Legacy Brasil RPG",
   "updateRequired": false,
-  "downloadUrl": "",
+  "downloadUrl": "https://github.com/fragmentado95/legacy-brasil-launcher-updates/releases/download/v1.0.0.0/LegacyBrasilLauncher-v1.0.0.0.zip",
   "changelog": [
     "Launcher inicial criado",
     "Sistema de status do servidor ativo",
