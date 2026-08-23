@@ -1,13 +1,12 @@
 {
-  "version": "1.0.0.1",
+  "version": "1.0.0.2",
   "launcher": "Legacy Brasil RPG",
   "updateRequired": false,
-  "downloadUrl": "https://github.com/fragmentado95/legacy-brasil-launcher-updates/releases/download/v1.0.0.1/LegacyBrasilLauncher-v1.0.0.1.zip",
+  "downloadUrl": "https://github.com/fragmentado95/legacy-brasil-launcher-updates/releases/download/v1.0.0.2/LegacyBrasilLauncher-v1.0.0.2.zip",
   "changelog": [
-    "Correções no sistema de instalação do jogo",
-    "Melhorias de desempenho em PCs mais fracos",
-    "Correção do download e cache do pacote do jogo",
-    "Launcher agora pode ser arrastado entre monitores",
-    "Correções visuais e de ícone"
+    "Correção do sistema de atualização automática",
+    "Correção do arquivo update.zip em uso durante a atualização",
+    "Melhorias no sistema de instalação e reparo do jogo",
+    "Otimizações de desempenho e responsividade"
   ]
 }
